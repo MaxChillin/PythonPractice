@@ -1,0 +1,13 @@
+Max@Chillin:~$ cd testDir/PythonPractice/
+Max@Chillin:~/testDir/PythonPractice$ ./pythonExercise9.py
+Enter A number: 12345
+123
+Max@Chillin:~/testDir/PythonPractice$ ./pythonExercise10.py
+Enter A number: 12345
+123.45
+Max@Chillin:~/testDir/PythonPractice$ ./pythonExercise11.py
+['A', 'B', 'C', 'D']
+['E', 'B', 'C', 'D']
+Max@Chillin:~/testDir/PythonPractice$ ./pythonExercise13.py
+[16, 36, 64, 100, 144, 196]
+Max@Chillin:~/testDir/PythonPractice$ 
