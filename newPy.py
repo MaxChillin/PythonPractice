@@ -1,5 +1,4 @@
 #!/usr/bin/python3.5m
-# Zane Ohman
 
 def main():
     filename = input("Which file? ")  
